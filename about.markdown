@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**Little Bot Games**
+![Screenshot](/Logo1.png)
