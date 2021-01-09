@@ -12,8 +12,8 @@ The beginning of a company.
 
 The beginning website.
 
-I am currently working on a little game, about a robot.
-I'll be posting updates to social media as it goes so make sure to follow to keep tabs on progress - 
+We are working on a little game, about a robot.
+We will be posting updates to social media as it goes so make sure to follow to keep tabs on progress - 
 
 [Twitter](https://twitter.com/LittleBotGames)
 
