@@ -10,10 +10,10 @@ The beginning of a game.
 
 The beginning of a company.
 
-The beginning website.
+The beginning of a website.
 
-We are working on a little game, about a robot.
-We will be posting updates to social media as it goes so make sure to follow to keep tabs on progress - 
+I am working on a little game, about a robot.
+Follow on social media for updates - 
 
 [Twitter](https://twitter.com/LittleBotGames)
 
