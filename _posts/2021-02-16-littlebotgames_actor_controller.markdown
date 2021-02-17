@@ -7,8 +7,8 @@ categories: blog
 
 ## Your mind, body and soul
 
-In **Little1** we use an **Actor / Controller** system to decouple the logic for controlling
-an Actor (these are mostly characters but can be anything that needs controlling) from the rest of the Actor functionality. A nice way to think
+We use an **Actor / Controller** system to decouple the logic for controlling an Actor 
+(these are mostly characters but can be anything that needs controlling) from the rest of the Actor functionality. A nice way to think
 about this is separating the concepts of the **brain** and the **body**.
 
 This is pretty standard practice in games. [Unreal](https://docs.unrealengine.com/en-US/InteractiveExperiences/Framework/Controller/index.html)
@@ -19,7 +19,7 @@ Unity doesn't provide any of this functionality as standard but it's easy to get
 
 ### Actor
 
-In **Little1** the Actor is very basic, all it has is a reference to the Controller that it can read it's inputs from. It's as simple as that.
+The Actor is very basic, all it has is a reference to the Controller that it can read it's inputs from. It's as simple as that.
 
 The Actor MonoBehaviour lives on the Character GameObject.
 
@@ -196,7 +196,7 @@ we've just made the core gameplay mechanic of Super Mario Odyssey.
 
 ## Some bonus thoughts
 
-In **Little1** instead of hardcoding the input actions into the Controller script we have a ScriptableObject where the actions can be defined.
+Instead of hardcoding the input actions into the Controller script we have a ScriptableObject where the actions can be defined.
 This then auto generates code with the input action ids in so they can be used by any game code.
 
 When making an AI driven Controller you will need to have knowledge of the Actor it is controlling so it can respond appropriately to what is happening
