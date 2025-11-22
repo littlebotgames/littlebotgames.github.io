@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-![Screenshot](/Logo1.png)
+Making little games.
