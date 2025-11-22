@@ -28,10 +28,24 @@ github_username:  littlebotgames
 domain: littlebotgames.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://www.littlebotgames.com  # the base hostname and protocol for your site, e.g. http://example.com
 
-
 # Build settings
-theme: minima
-#remote_theme: pages-themes/midnight@v0.2.0
+#theme: minima
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+navigation:
+  - name: Home
+    link: /
+  - name: Oblings
+    link: /oblings/
+  - name: About
+    link: /about/
+
+logo: /LBIcon.png
+hide_project_page: [true]
+hide_project_footer: [true]
+author: Little Bot Games
+
+# Run "bundle exec jekyll serve" to test
 
 plugins:
   - jekyll-feed
