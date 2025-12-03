@@ -4,6 +4,6 @@ title: Oblings
 permalink: /oblings/
 ---
 
-Oblings is a game kind of thing for the Playdate handheld console.
+A Spore-like creature creator for the Playdate console. Infinite possibilities, intuitive controls, let's see what you can make.
 
 ![Screenshot](/Oblings.png)
