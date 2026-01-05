@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Making little games.
+Making little games, dreaming big dreams.
