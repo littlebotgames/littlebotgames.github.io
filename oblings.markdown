@@ -6,7 +6,15 @@ permalink: /oblings/
 
 ![Screenshot](/Oblings.png)
 
-A Spore-like creature creator for the Playdate console. Infinite possibilities, intuitive controls, let's see what you can make.
+Create crazy creatures!
+Mold magnificent monsters!
+Build bonkers beings!
+
+A pocket sized creature creator. 
+Infinite possibilities.
+Intuitive controls.
+
+Let's see what you can make!
 
 Available now in the [Playdate Catalog](https://play.date/games/oblings/).
 
