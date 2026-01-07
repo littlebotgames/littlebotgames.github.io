@@ -6,13 +6,13 @@ permalink: /oblings/
 
 ![Screenshot](/Oblings.png)
 
-Create crazy creatures!
-Mold magnificent monsters!
-Build bonkers beings!
+Create crazy creatures!  
+Mold magnificent monsters!  
+Build bonkers beings!  
 
-A pocket sized creature creator. 
-Infinite possibilities.
-Intuitive controls.
+A pocket sized creature creator.  
+Infinite possibilities.  
+Intuitive controls.  
 
 Let's see what you can make!
 
